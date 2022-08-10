@@ -28,8 +28,9 @@ Your users should be able to:
 
 ### Screenshot
 
-![](https://github.com/NazimAitali/huddle-landing-page-with-curved-sections/blob/master/Desktop.png)
-![](https://github.com/NazimAitali/huddle-landing-page-with-curved-sections/blob/master/screenshot mobile.png)
+![](https://github.com/NazimAitali/huddle-landing-page-with-curved-sections/blob/master/desktop.png)
+
+![](https://github.com/NazimAitali/huddle-landing-page-with-curved-sections/blob/master/mobile.png)
 
 ### Links
 
